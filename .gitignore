@@ -114,6 +114,12 @@ dmypy.json
 .pyre/
 
 .DS_Store
-.idea
-.ipynb_checkpoints
+data*
+
 *.pyc
+
+# Jupyter notebook checkpoints:
+.ipynb_checkpoints
+
+#folders with images with the big data:
+data_*
