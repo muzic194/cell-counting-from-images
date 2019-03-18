@@ -1,5 +1,5 @@
-%run algorithms/countours.py # run functions from  separate file: countours.py in directory algorithms - you can replace with your file/algorythm name
-%%writefile tests.py # overwrites identical file with.py
+%run algorithms/countours.py # run functions from  separate file: countours.py in directory algorithms
+%%writefile tests.py
 
 import pandas as pd
 import seaborn as sns
@@ -22,7 +22,7 @@ def analyze(inputdir, fn):
 #     return _countours(filepath, 60, 10, imshow=True)
 
 
-print(analyze(folder_path, counting_algorythm)) # in this place you have to write folder_name and counting_algorythm's name
-sns.catplot(x="image", y="diff", data=result, height=8, aspect=2) # plot- if dot is in 0 on y axis - it means that algorytm counted True value
+#print(analyze(folder_path, counting_algorythm)) # in this place you have to write folder_name and counting_algorythm's name
+#sns.catplot(x="image", y="diff", data=result, height=8, aspect=2) # plot- if dot is in 0 on y axis - it means that algorytm counted True value
 
 
