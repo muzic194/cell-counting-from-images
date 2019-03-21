@@ -13,6 +13,10 @@ link to source: https://www.kaggle.com/c/data-science-bowl-2018/data
     used folder: /stage1_train/*
     script to process this data to proper structure in directory utils, named: process-kaggle-data.ipynb
 link to data: https://drive.google.com/file/d/1eNtcULHZJpbDLY8g_AhNXbo6vLK-N7Wq/view?usp=sharing
+###Synthetic cells
+Each photo contains 300 objects.
+link to source:  https://data.broadinstitute.org/bbbc/BBBC004/
+link to data (images and csv file): https://drive.google.com/file/d/1-DcDU3SpUy1Co63K1vrg-4Ya6JooS4Fk/view?usp=sharing
 
 
 ## Requirenments
