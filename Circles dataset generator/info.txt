@@ -1,0 +1,1 @@
+Prosty generator obrazków z kółkami. Umożliwia tworzenie dużego zbioru danych w dość krótkim czasie.
