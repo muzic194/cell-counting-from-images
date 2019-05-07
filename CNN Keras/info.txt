@@ -1,1 +1,1 @@
-Początki sieci wykrywającej ile jest kółek na obrazku. 
+Początki sieci wykrywającej ile jest kółek na obrazku. Coś jest nie tak z przetwarzaniem obrazków.
